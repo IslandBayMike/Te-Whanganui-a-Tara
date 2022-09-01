@@ -1,0 +1,45 @@
+
+body {
+
+background-color: #FFBAAC 
+}
+
+h3 {
+	color:#DC0FFA;
+	
+}
+
+ nav 
+ {
+	background-color: #FAE80F'
+    color: #0F2DFA;	
+	position:sticky;
+	top:20;
+	
+ }
+ 
+ ul {
+  list-style-type: inline;
+  margin: 0;
+  padding: 30;
+  overflow: hidden;
+  background-color:lightgrey;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  
+
+ }
+
+li {
+	display:inline;
+	
+	li 
+  float: left;
+}
+
+a {
+  display: inline;
+  padding:  20px;
+  margin: 10px;
+}
